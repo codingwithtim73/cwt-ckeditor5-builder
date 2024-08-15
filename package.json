@@ -1,6 +1,11 @@
 {
-  "name": "ckeditor5-custom-project",
-  "version": "0.0.1",
+  "name": "cwt-ckeditor5",
+  "version": "1.0.0",
+  "description": "A custom CKEditor 5 build incorporating all non premium features",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingwithtim73/cwt-ckeditor5-builder.git"
+  },
   "type": "module",
   "scripts": {
     "start": "vite"
