@@ -1,4 +1,4 @@
-# CKEditor 5 Sample Project
+# A CKEditor 5 Build with all non-premium features
 
 ## Setup instructions
 
